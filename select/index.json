@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "パレード",
+  "base_artist": "back number",
+  "createdAt": "2026-02-18T20:34:15.246474Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ガラクタ・パレード feat.鏡音レン",
+      "artist": "Neru",
+      "has_synced": true,
+      "path": "select/01_ガラクタ・パレード_feat.鏡音レン_Neru.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "パレード",
+      "artist": "Chaba",
+      "has_synced": true,
+      "path": "select/02_パレード_Chaba.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ラヴ・パレード",
+      "artist": "ORANGE RANGE",
+      "has_synced": true,
+      "path": "select/03_ラヴ・パレード_ORANGE_RANGE.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Parade [パレード]",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": true,
+      "path": "select/04_Parade_[パレード]_BUMP_OF_CHICKEN.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Parade [パレード]",
+      "artist": "Susumu Hirasawa",
+      "has_synced": true,
+      "path": "select/05_Parade_[パレード]_Susumu_Hirasawa.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "パレード",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": true,
+      "path": "select/06_パレード_BUMP_OF_CHICKEN.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ポジティブ・パレード",
+      "artist": "DECO*27",
+      "has_synced": true,
+      "path": "select/07_ポジティブ・パレード_DECO_27.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "パレード",
+      "artist": "Yorushika",
+      "has_synced": true,
+      "path": "select/08_パレード_Yorushika.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ガラクタ・パレード",
+      "artist": "Neru; 鏡音レン",
+      "has_synced": true,
+      "path": "select/09_ガラクタ・パレード_Neru;_鏡音レン.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "パレード",
+      "artist": "山下達郎",
+      "has_synced": true,
+      "path": "select/10_パレード_山下達郎.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "パレード",
+      "artist": "Tatsuro Yamashita",
+      "has_synced": true,
+      "path": "select/11_パレード_Tatsuro_Yamashita.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Parade (パレード)",
+      "artist": "Hirasawa Susumu",
+      "has_synced": true,
+      "path": "select/12_Parade_(パレード)_Hirasawa_Susumu.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "パレード",
+      "artist": "KANA-BOON",
+      "has_synced": true,
+      "path": "select/13_パレード_KANA-BOON.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "パレード ('82 remix)",
+      "artist": "山下達郎",
+      "has_synced": true,
+      "path": "select/14_パレード_('82_remix)_山下達郎.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "パレード",
+      "artist": "ヨルシカ",
+      "has_synced": true,
+      "path": "select/15_パレード_ヨルシカ.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "パレード",
+      "artist": "山下達郎",
+      "has_synced": true,
+      "path": "select/16_パレード_山下達郎.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "ガラクタ・パレード",
+      "artist": "Neru feat. 鏡音レン",
+      "has_synced": true,
+      "path": "select/17_ガラクタ・パレード_Neru_feat._鏡音レン.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "パレード",
+      "artist": "back number",
+      "has_synced": false,
+      "path": "select/pl_01_パレード_back_number.txt"
+    }
+  ]
+}
